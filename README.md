@@ -83,16 +83,16 @@ Get a free API key from [Alpha Vantage](https://www.alphavantage.co/) .
 
 ## 📸 Screenshots
 #### All controls for this project with optional API key or demo Key  
-![alt text](image.png)
+![alt text](/src/assets/image.png)
 
 #### RSI graph
-![alt text](image-1.png)
+![alt text](/src/assets/image-1.png)
 
 #### Volume graph
-![alt text](image-2.png)
+![alt text](/src/assets/image-2.png)
 
 #### Close , EMA & SMA graph
-![alt text](image-3.png)
+![alt text](/src/assets/image-3.png)
 
 
 ## 📜 Disclaimer
